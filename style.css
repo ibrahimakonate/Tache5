@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(bureau-abstrait_155003-4104.webp);
+    background-size: cover;
+     font-family: arial;
+  font-size: 13px;
+  margin-bottom: 300px;
+  margin: 0px;
+}
+.font{
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+    width: 1000px;
+    height: 110px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    position: relative;
+    left: 13%;
+}
+.true{
+    position: relative;
+    left: -35px;
+    top: 30px;
+}
+.cv{
+    background-color: orange;
+    color: white;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 18px;
+    float: right;
+    text-align: end;
+    position: relative;
+    left: -12.52%;
+}
+.sec2{
+    background-color: white;
+    width: 800px;
+    height: 300px;
+    margin-top: 13%;
+    margin-left: 20%;
+
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 10%;
+    position: absolute;
+    left: 44%;
+    bottom: 10%;
+}
+.para{
+    text-align: center;
+    position: relative;
+    top: 48%;
+    left: 5%;
+}
+.alamine{
+    font-size: 30px;
+    font-weight: bold;
+}
+.key{
+    color: orange;
+    margin-top: 1%;
+    font-size: 24px;
+}
+.born{
+    text-align: center;
+    margin-top: 16%;
+    position: absolute;
+    left: 40%;
+
+    
+}
+p{
+    font-size: 16px;
+}
+p span{
+    font-size: 16px;
+    font-weight: bold;
+}
+.sec3{
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    border: none;
+}
